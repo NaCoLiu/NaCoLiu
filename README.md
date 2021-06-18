@@ -1,4 +1,4 @@
-Info|Code Skill|Like for Life
+*Info*|*Code Skill*|*Like for Life*
 --|:--:|--:
 Name: NaCo|Web Dev| Computer Game
 Age: 21|Flutter| Coding
