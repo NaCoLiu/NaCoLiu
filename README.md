@@ -24,7 +24,7 @@
   <samp>
     <a href="https://nco.im">My WebSite</a> .
     <a href="https://facebook.com/na2co3liu">FaceBook</a> .
-    <a href="https://www.instagram.com/nacoliu/">Instagram</a>
+    <a href="https://www.instagram.com/nacoliu/">Instagram</a> .
     <a href="https://steamcommunity.com/id/nacodes/">Steam</a>
   </samp>
 </p>
