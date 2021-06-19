@@ -32,6 +32,6 @@
 ***My GitHub Status:***
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=NaCoLiu?theme=cobalt"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=NaCoLiu&theme=dark"/>
 </p>
 
