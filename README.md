@@ -2,7 +2,7 @@
 
 ***GitHub Coder Info***
 
-| *Info*             | *Code Skill* |   *Like of Life* |
+| *Info*             | *Code Skill* |   *Life hobby*    |
 | ------------------ | :----------: | ----------------: |
 | Name: NaCo         |   Web Dev    |     Computer Game |
 | Age: 23            |   Flutter    |            Coding |
