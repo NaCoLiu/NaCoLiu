@@ -4,9 +4,9 @@
 
 | *Info*             | *Code Skill* |   *Life hobby*    |
 | ------------------ | :----------: | ----------------: |
-| Name: NaCo         |   Web Dev    |     Computer Game |
-| Age: 23            |   Flutter    |            Coding |
-| Email: naco@nco.im |     Java     |       fantasy     |
+| NaCo         |   Web Dev    |     Computer Game |
+| 1999            |   Flutter    |            Coding |
+| naco@nco.im |     Java     |       fantasy     |
 
 
 ***Languages and Tools:***
