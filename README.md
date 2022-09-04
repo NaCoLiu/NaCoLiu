@@ -31,10 +31,11 @@
 ---
 <p align="center">
   <samp>
-    <a href="https://nco.im">My WebSite</a> .
-    <a href="https://facebook.com/na2co3liu">FaceBook</a> .
-    <a href="https://www.instagram.com/nacoliu/">Instagram</a> .
-    <a href="https://steamcommunity.com/id/nacodes/">Steam</a>
+    <a href="https://nco.im">MY PROFILE</a> .
+    <a href="https://blog.nco.im">MY BLOG</a> .
+    <a href="https://facebook.com/na2co3liu">FACEBOOK</a> .
+    <a href="https://www.instagram.com/nacoliu/">INS</a> .
+    <a href="https://steamcommunity.com/id/nacodes/">STEAM</a>
   </samp>
 </p>
 
