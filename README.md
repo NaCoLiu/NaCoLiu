@@ -36,7 +36,7 @@
     <a href="https://blog.nco.im">MY BLOG</a> .
     <a href="https://facebook.com/na2co3liu">FACEBOOK</a> .
     <a href="https://www.instagram.com/nacoliu/">INS</a> .
-    <a href="https://steamcommunity.com/id/nacodes/">STEAM</a>
+    <a href="https://steamcommunity.com/id/nacoliu/">STEAM</a>
   </samp>
 </p>
 
