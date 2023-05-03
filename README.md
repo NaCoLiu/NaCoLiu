@@ -6,7 +6,7 @@
 | ------------------ | :----------: | ----------------: |
 | NaCo         |   Web Dev    |     Computer Game |
 | 1999            |   Flutter    |            Coding |
-| naco@nco.im |     Java     |       fantasy     |
+| naco@nco.im |     Java     |       Fantasy     |
 
 
 ***Languages and Tools:***
